@@ -1,0 +1,6 @@
+framework module Pods_QRecu_QRecuUITests {
+  umbrella header "Pods-QRecu-QRecuUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
